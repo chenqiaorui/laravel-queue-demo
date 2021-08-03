@@ -1,0 +1,178 @@
+2021-08-03 07:56:19,445 CRIT Supervisor running as root (no user in config file)
+2021-08-03 07:56:19,445 INFO Included extra file "/etc/supervisor/conf.d/supervisor.conf" during parsing
+2021-08-03 07:56:19,455 INFO RPC interface 'supervisor' initialized
+2021-08-03 07:56:19,456 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-08-03 07:56:19,456 INFO supervisord started with pid 1446
+2021-08-03 07:56:20,462 INFO spawned: 'queue' with pid 1449
+2021-08-03 07:56:20,855 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:56:21,861 INFO spawned: 'queue' with pid 1456
+2021-08-03 07:56:22,112 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:56:24,118 INFO spawned: 'queue' with pid 1463
+2021-08-03 07:56:24,356 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:56:27,364 INFO spawned: 'queue' with pid 1470
+2021-08-03 07:56:27,592 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:56:28,595 INFO gave up: queue entered FATAL state, too many start retries too quickly
+2021-08-03 07:59:19,639 CRIT Supervisor running as root (no user in config file)
+2021-08-03 07:59:19,639 INFO Included extra file "/etc/supervisor/conf.d/supervisor.conf" during parsing
+2021-08-03 07:59:19,640 INFO RPC interface 'supervisor' initialized
+2021-08-03 07:59:19,640 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-08-03 07:59:19,640 INFO supervisord started with pid 1446
+2021-08-03 07:59:20,647 INFO spawned: 'queue' with pid 1486
+2021-08-03 07:59:21,011 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:59:22,015 INFO spawned: 'queue' with pid 1493
+2021-08-03 07:59:23,018 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 07:59:40,262 INFO exited: queue (exit status 0; expected)
+2021-08-03 07:59:41,266 INFO spawned: 'queue' with pid 1501
+2021-08-03 07:59:41,474 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:59:42,481 INFO spawned: 'queue' with pid 1508
+2021-08-03 07:59:42,756 INFO exited: queue (exit status 0; not expected)
+2021-08-03 07:59:44,766 INFO spawned: 'queue' with pid 1515
+2021-08-03 07:59:45,769 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:00:45,208 INFO exited: queue (exit status 0; expected)
+2021-08-03 08:00:46,216 INFO spawned: 'queue' with pid 1527
+2021-08-03 08:00:46,484 INFO exited: queue (exit status 0; not expected)
+2021-08-03 08:00:47,491 INFO spawned: 'queue' with pid 1534
+2021-08-03 08:00:47,791 INFO exited: queue (exit status 0; not expected)
+2021-08-03 08:00:49,797 INFO spawned: 'queue' with pid 1541
+2021-08-03 08:00:50,800 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:01:57,219 WARN received SIGINT indicating exit request
+2021-08-03 08:01:57,219 INFO waiting for queue to die
+2021-08-03 08:01:57,252 INFO stopped: queue (exit status 0)
+2021-08-03 08:02:53,374 CRIT Supervisor running as root (no user in config file)
+2021-08-03 08:02:53,375 INFO Included extra file "/etc/supervisor/conf.d/supervisor.conf" during parsing
+2021-08-03 08:02:53,382 INFO RPC interface 'supervisor' initialized
+2021-08-03 08:02:53,382 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-08-03 08:02:53,382 INFO supervisord started with pid 1562
+2021-08-03 08:02:54,389 INFO spawned: 'queue' with pid 1565
+2021-08-03 08:02:55,395 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:02:58,360 WARN received SIGINT indicating exit request
+2021-08-03 08:02:58,361 INFO waiting for queue to die
+2021-08-03 08:02:58,401 INFO stopped: queue (exit status 0)
+2021-08-03 08:03:12,529 CRIT Supervisor running as root (no user in config file)
+2021-08-03 08:03:12,529 INFO Included extra file "/etc/supervisor/conf.d/supervisor.conf" during parsing
+2021-08-03 08:03:12,537 INFO RPC interface 'supervisor' initialized
+2021-08-03 08:03:12,537 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-08-03 08:03:12,537 INFO supervisord started with pid 1573
+2021-08-03 08:03:13,542 INFO spawned: 'queue' with pid 1576
+2021-08-03 08:03:14,546 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:04:16,042 INFO waiting for queue to stop
+2021-08-03 08:04:16,066 INFO stopped: queue (exit status 0)
+2021-08-03 08:04:29,328 INFO spawned: 'queue' with pid 1588
+2021-08-03 08:04:30,331 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:04:36,991 INFO waiting for queue to stop
+2021-08-03 08:04:37,128 INFO stopped: queue (exit status 0)
+2021-08-03 08:04:49,671 INFO spawned: 'queue' with pid 1597
+2021-08-03 08:04:50,676 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:04:58,323 INFO waiting for queue to stop
+2021-08-03 08:04:58,442 INFO stopped: queue (exit status 0)
+2021-08-03 08:05:28,278 INFO spawned: 'queue' with pid 1606
+2021-08-03 08:05:29,283 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:06:02,940 INFO waiting for queue to stop
+2021-08-03 08:06:03,104 INFO stopped: queue (exit status 0)
+2021-08-03 08:07:02,133 INFO spawned: 'queue' with pid 1616
+2021-08-03 08:07:03,138 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:07:08,331 INFO waiting for queue to stop
+2021-08-03 08:07:08,352 INFO stopped: queue (exit status 0)
+2021-08-03 08:07:09,970 INFO spawned: 'queue' with pid 1625
+2021-08-03 08:07:10,973 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:07:37,409 INFO waiting for queue to stop
+2021-08-03 08:07:37,558 INFO stopped: queue (exit status 0)
+2021-08-03 08:11:13,798 INFO spawned: 'queue' with pid 1637
+2021-08-03 08:11:14,801 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:13:21,062 INFO waiting for queue to stop
+2021-08-03 08:13:21,184 INFO stopped: queue (exit status 0)
+2021-08-03 08:13:51,525 INFO spawned: 'queue' with pid 1647
+2021-08-03 08:13:52,526 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:14:59,226 INFO waiting for queue to stop
+2021-08-03 08:14:59,237 INFO stopped: queue (exit status 0)
+2021-08-03 08:15:03,460 INFO spawned: 'queue' with pid 1658
+2021-08-03 08:15:04,463 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:15:39,827 INFO waiting for queue to stop
+2021-08-03 08:15:41,833 INFO waiting for queue to stop
+2021-08-03 08:15:43,840 INFO waiting for queue to stop
+2021-08-03 08:15:45,847 INFO waiting for queue to stop
+2021-08-03 08:15:47,853 INFO waiting for queue to stop
+2021-08-03 08:15:49,858 INFO waiting for queue to stop
+2021-08-03 08:15:51,867 INFO waiting for queue to stop
+2021-08-03 08:15:53,877 INFO waiting for queue to stop
+2021-08-03 08:15:55,885 INFO waiting for queue to stop
+2021-08-03 08:15:57,895 INFO waiting for queue to stop
+2021-08-03 08:15:59,904 INFO waiting for queue to stop
+2021-08-03 08:16:01,919 INFO waiting for queue to stop
+2021-08-03 08:16:03,926 INFO waiting for queue to stop
+2021-08-03 08:16:05,930 INFO waiting for queue to stop
+2021-08-03 08:16:07,936 INFO waiting for queue to stop
+2021-08-03 08:16:09,945 INFO waiting for queue to stop
+2021-08-03 08:16:11,950 INFO waiting for queue to stop
+2021-08-03 08:16:13,959 INFO waiting for queue to stop
+2021-08-03 08:16:15,967 INFO waiting for queue to stop
+2021-08-03 08:16:17,974 INFO waiting for queue to stop
+2021-08-03 08:16:19,985 INFO waiting for queue to stop
+2021-08-03 08:16:21,989 INFO waiting for queue to stop
+2021-08-03 08:16:22,514 INFO stopped: queue (exit status 0)
+2021-08-03 08:17:57,132 INFO spawned: 'queue' with pid 1670
+2021-08-03 08:17:58,136 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:18:23,926 INFO waiting for queue to stop
+2021-08-03 08:18:25,934 INFO waiting for queue to stop
+2021-08-03 08:18:27,944 INFO waiting for queue to stop
+2021-08-03 08:18:29,956 INFO waiting for queue to stop
+2021-08-03 08:18:31,959 INFO waiting for queue to stop
+2021-08-03 08:18:33,966 INFO waiting for queue to stop
+2021-08-03 08:18:35,977 INFO waiting for queue to stop
+2021-08-03 08:18:37,983 INFO waiting for queue to stop
+2021-08-03 08:18:39,990 INFO waiting for queue to stop
+2021-08-03 08:18:41,994 INFO waiting for queue to stop
+2021-08-03 08:18:44,003 INFO waiting for queue to stop
+2021-08-03 08:18:46,008 INFO waiting for queue to stop
+2021-08-03 08:18:48,015 INFO waiting for queue to stop
+2021-08-03 08:18:50,022 INFO waiting for queue to stop
+2021-08-03 08:18:52,032 INFO waiting for queue to stop
+2021-08-03 08:18:52,742 INFO stopped: queue (exit status 0)
+2021-08-03 08:19:27,780 INFO spawned: 'queue' with pid 1681
+2021-08-03 08:19:28,783 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:19:40,429 INFO waiting for queue to stop
+2021-08-03 08:19:42,439 INFO waiting for queue to stop
+2021-08-03 08:19:44,446 INFO waiting for queue to stop
+2021-08-03 08:19:46,451 INFO waiting for queue to stop
+2021-08-03 08:19:48,458 INFO waiting for queue to stop
+2021-08-03 08:19:50,462 INFO waiting for queue to stop
+2021-08-03 08:19:52,470 INFO waiting for queue to stop
+2021-08-03 08:19:54,475 INFO waiting for queue to stop
+2021-08-03 08:19:56,483 INFO waiting for queue to stop
+2021-08-03 08:19:58,491 INFO waiting for queue to stop
+2021-08-03 08:20:00,496 INFO waiting for queue to stop
+2021-08-03 08:20:02,502 INFO waiting for queue to stop
+2021-08-03 08:20:04,506 INFO waiting for queue to stop
+2021-08-03 08:20:06,509 INFO waiting for queue to stop
+2021-08-03 08:20:08,517 INFO waiting for queue to stop
+2021-08-03 08:20:09,692 INFO stopped: queue (exit status 0)
+2021-08-03 08:20:46,578 INFO spawned: 'queue' with pid 1690
+2021-08-03 08:20:47,582 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:21:05,531 INFO waiting for queue to stop
+2021-08-03 08:21:07,537 INFO waiting for queue to stop
+2021-08-03 08:21:09,543 INFO waiting for queue to stop
+2021-08-03 08:21:11,550 INFO waiting for queue to stop
+2021-08-03 08:21:13,558 INFO waiting for queue to stop
+2021-08-03 08:21:15,568 INFO waiting for queue to stop
+2021-08-03 08:21:17,578 INFO waiting for queue to stop
+2021-08-03 08:21:19,587 INFO waiting for queue to stop
+2021-08-03 08:21:21,595 INFO waiting for queue to stop
+2021-08-03 08:21:23,604 INFO waiting for queue to stop
+2021-08-03 08:21:25,614 INFO waiting for queue to stop
+2021-08-03 08:21:27,620 INFO waiting for queue to stop
+2021-08-03 08:21:29,622 INFO waiting for queue to stop
+2021-08-03 08:21:31,627 INFO waiting for queue to stop
+2021-08-03 08:21:33,633 INFO waiting for queue to stop
+2021-08-03 08:21:35,642 INFO waiting for queue to stop
+2021-08-03 08:21:37,649 INFO waiting for queue to stop
+2021-08-03 08:21:39,670 INFO waiting for queue to stop
+2021-08-03 08:21:41,674 INFO waiting for queue to stop
+2021-08-03 08:21:43,495 INFO stopped: queue (exit status 0)
+2021-08-03 08:22:19,989 INFO spawned: 'queue' with pid 1699
+2021-08-03 08:22:21,596 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:23:20,564 INFO exited: queue (terminated by SIGKILL; not expected)
+2021-08-03 08:23:21,569 INFO spawned: 'queue' with pid 1706
+2021-08-03 08:23:22,573 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-08-03 08:24:51,923 INFO exited: queue (terminated by SIGKILL; not expected)
+2021-08-03 08:24:52,930 INFO spawned: 'queue' with pid 1715
+2021-08-03 08:24:53,935 INFO success: queue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
